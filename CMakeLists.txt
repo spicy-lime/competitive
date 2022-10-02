@@ -3,7 +3,7 @@ project(emu VERSION 0.1.0)
 
 include(CTest)
 enable_testing()
-set_property(GLOBAL PROPERTY CXX_STANDARD 20) 
+set_property(GLOBAL PROPERTY CXX_STANDARD 23) 
 set_property(GLOBAL PROPERTY CXX_STANDARD_REQUIRED true) 
 set_property(GLOBAL PROPERTY CMAKE_BUILD_TYPE Debug)
 
